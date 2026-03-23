@@ -6,7 +6,7 @@ This need to be updated!
 
 ## Development server
 
-To start a local development server, run:
+To start a local development server, run the following command in your terminal:
 
 ```bash
 ng serve
