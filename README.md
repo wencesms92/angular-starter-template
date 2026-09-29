@@ -1,4 +1,4 @@
-# Angular starter template 2.0
+# Angular starter template 3.o
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.14.
 
