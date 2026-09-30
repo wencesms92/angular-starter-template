@@ -6,7 +6,7 @@ import { FeaturedResourceComponent } from './featured-resource/featured-resource
   selector: 'app-root',
   imports: [RouterOutlet, FeaturedResourceComponent],
   templateUrl: './app.component.html',
-  changeDetection: ChangeDetectionStrategy.Eager,
+  changeDetection: ChangeDetectionStrategy.OnPush,
   styleUrl: './app.component.css'
 })
 export class AppComponent {

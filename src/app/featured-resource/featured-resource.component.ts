@@ -20,7 +20,7 @@ export class FeaturedResourceComponent {
 
   next() {
     this.index += 1;
-    if (this.index > this.resources.length) {
+    if (this.index >= this.resources.length) {
       this.index = 0;
     }
   }
