@@ -1,8 +1,8 @@
 # Angular starter template 3.o
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.14.
+This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.14 and upgraded to Angular 22.2.
 
-This need to be updated!
+Requires Node.js 24.15+ (or 22.22.3+ / 26).
 
 ## Development server
 
