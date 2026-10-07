@@ -1,4 +1,4 @@
-# Angular starter template 3.o
+# Angular Starter Template - Silly Edition
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.14 and upgraded to Angular 22.2.
 
